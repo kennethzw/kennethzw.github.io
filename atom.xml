@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WindFlying</title>
+  
+  <subtitle>大风起兮</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://kennethzw.github.io/"/>
+  <updated>2020-05-31T10:42:59.970Z</updated>
+  <id>https://kennethzw.github.io/</id>
+  
+  <author>
+    <name>风哥</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux命令简介</title>
+    <link href="https://kennethzw.github.io/posts/cf30.html"/>
+    <id>https://kennethzw.github.io/posts/cf30.html</id>
+    <published>2020-05-31T09:34:59.000Z</published>
+    <updated>2020-05-31T10:42:59.970Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Linux终端命令格式&quot;&gt;&lt;a href=&quot;#Linux终端命令格式&quot; class=&quot;headerlink&quot; title=&quot;Linux终端命令格式&quot;&gt;&lt;/a&gt;Linux终端命令格式&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;command
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Linux学习" scheme="https://kennethzw.github.io/categories/Linux%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="Linux" scheme="https://kennethzw.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello</title>
+    <link href="https://kennethzw.github.io/posts/f353.html"/>
+    <id>https://kennethzw.github.io/posts/f353.html</id>
+    <published>2020-05-30T13:40:24.367Z</published>
+    <updated>2020-05-31T09:53:45.070Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to WindFlying! This is my first post. &lt;/p&gt;
+&lt;p&gt;Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
